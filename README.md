@@ -30,3 +30,18 @@ Write a function that checks if a given word is a palindrome. Character case sho
 For example, IsPalindrome("Deleveled") should return true as character case should be ignored, resulting in "deleveled", which is a palindrome since it reads the same backward and forward.
 
 [Solution - Polindrome.cs](https://github.com/ks7788/csharp4.8/blob/master/Polindrome.cs)
+
+6. User Input
+User interface contains two types of user input controls: TextInput, which accepts all characters and NumericInput, which accepts only digits.
+
+Implement the class TextInput that contains:
+
+Public method void Add(char c) - adds the given character to the current value
+Public method string GetValue() - returns the current value
+Implement the class NumericInput that:
+
+Inherits TextInput
+Overrides the Add method so that each non-numeric character is ignored
+For example, the following code should output "10":
+
+Solution - UserInput.cs](https://github.com/ks7788/csharp4.8/blob/master/UserInput.cs)
