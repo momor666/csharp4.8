@@ -1,7 +1,7 @@
 # csharp4.8 - Solutions to TestDome C# questions 
 
 
-**1. Alert Service - C#**  
+**1. Alert Service - C#**  *EASY*
 Refactor the AlertService and AlertDAO classes:
 
   Create a new interface, named IAlertDAO, that contains the same methods as AlertDAO.
