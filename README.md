@@ -31,7 +31,8 @@ For example, IsPalindrome("Deleveled") should return true as character case shou
 
 [Solution - Polindrome.cs](https://github.com/ks7788/csharp4.8/blob/master/Polindrome.cs)
 
-6. User Input
+**6. User Input**
+
 User interface contains two types of user input controls: TextInput, which accepts all characters and NumericInput, which accepts only digits.
 
 Implement the class TextInput that contains:
