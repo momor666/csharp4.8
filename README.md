@@ -1,7 +1,7 @@
 # csharp4.8 - Testdome questions c# 
 
 
-**1. Alert ServiceC#**  
+**1. Alert Service - C# **  
 Refactor the AlertService and AlertDAO classes:
 
 Create a new interface, named IAlertDAO, that contains the same methods as AlertDAO.
@@ -12,7 +12,7 @@ The RaiseAlert and GetAlertTime methods should use the object passed through the
 
 [Solution - AlertService.cs](https://github.com/ks7788/csharp4.8/blob/master/AlertService.cs)
 
-**2. Merge Names**
+**2. Merge Names - C#**
 
 Implement the UniqueNames method. When passed two arrays of names, it will return an array containing the names that appear in either or both arrays. The returned array should have no duplicates.
 
