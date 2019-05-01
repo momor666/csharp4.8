@@ -45,4 +45,4 @@ Inherits TextInput
 Overrides the Add method so that each non-numeric character is ignored
 For example, the following code should output "10":
 
-Solution - UserInput.cs](https://github.com/ks7788/csharp4.8/blob/master/UserInput.cs)
+[Solution - UserInput.cs](https://github.com/ks7788/csharp4.8/blob/master/UserInput.cs)
