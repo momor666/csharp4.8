@@ -20,3 +20,12 @@ Refactor the AlertService and AlertDAO classes:
   For example, calling MergeNames.UniqueNames(new string[]{'Ava', 'Emma', 'Olivia'}, new string[]{'Olivia', 'Sophia', 'Emma'})    should return an array containing Ava, Emma, Olivia, and Sophia in any order.
 
 [Solution - MergeNames.cs](https://github.com/ks7788/csharp4.8/blob/master/MergeNames.cs)
+
+**3. Palindrome - C#**
+A palindrome is a word that reads the same backward or forward.
+
+Write a function that checks if a given word is a palindrome. Character case should be ignored.
+
+For example, IsPalindrome("Deleveled") should return true as character case should be ignored, resulting in "deleveled", which is a palindrome since it reads the same backward and forward.
+
+[Solution - Polindrome.cs](https://github.com/ks7788/csharp4.8/blob/master/Polindrome.cs)
